@@ -1,8 +1,7 @@
 # Trilogy Engineering Blog
 
-```
-- [Trunk Based Development] (https://github.com/trilogy-group/blog/blob/gh-pages/TrunkBasedDevelopment)
-```
+[Trunk Based Development](https://github.com/trilogy-group/blog/blob/gh-pages/TrunkBasedDevelopment)
+
 
 
 
