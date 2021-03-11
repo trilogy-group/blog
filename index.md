@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+# Trilogy Engineering Blog
+
+
+- [Trunk Based Development] (https://github.com/trilogy-group/blog/blob/gh-pages/TrunkBasedDevelopment)
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/trilogy-group/blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
